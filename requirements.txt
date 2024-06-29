@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+plotly
+streamlit-autorefresh
+folium
+streamlit-folium
+matplotlib
+openpyxl
